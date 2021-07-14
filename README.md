@@ -20,5 +20,5 @@ Let assume two stocks X and Y whose values varies with time and give us two time
 
 And we use the p-values to find out the cointegration
 The p-value is the probability of obtaining results at least as extreme as the observed results of a statistical hypothesis test, assuming that the null hypothesis is correct. The p-value is used as an alternative to rejection points to provide the smallest level of significance at which the null hypothesis would be rejected. A smaller p-value means that there is stronger evidence in favor of the alternative hypothesis.
-If the pvalue is small, below a critical size (0.05 in our case), then we can reject the hypothesis that there is no cointegrating relationship. The smaller the p-value, stocks will be that much well cointegrated.
+If the pvalue is small, below a critical size (0.05 in this case), then we can reject the hypothesis that there is no cointegrating relationship. The smaller the p-value, stocks will be that much well cointegrated.
 
